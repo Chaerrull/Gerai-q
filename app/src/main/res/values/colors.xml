@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="colorPrimary">#6200EE</color>
+    <color name="tombol">#FFCC57</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+    <color name="isi">#034961</color>
+    <color name="latar">#27A1C6</color>
+    <color name="lochmara">#0085CE</color>
+    <color name="bigStonee">#26364C</color>
+    <color name="scooter">#16BDE4</color>
+    <color name="allport">#0079B1</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#606060</color>
+    <color name="blackterang">#2B2B2B</color>
+    <color name="black42">#424242</color>
+    <color name="black">#000000</color>
 </resources>
