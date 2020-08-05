@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "358640424967",
+    "firebase_url": "https://gerai-q.firebaseio.com",
+    "project_id": "gerai-q",
+    "storage_bucket": "gerai-q.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358640424967:android:d6c89d0cb7eb393ff9f2a2",
+        "android_client_info": {
+          "package_name": "com.app.chaerrull.geraiq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358640424967-brmclp573upr67l5sb9hb3upm718ccj7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.chaerrull.geraiq",
+            "certificate_hash": "8b5e5653b06bfa189fc7b358fe467ce4156456c1"
+          }
+        },
+        {
+          "client_id": "358640424967-19bvnm59a6nk2sbfh1250h1qdt1ib4is.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr6oMdzsqWwxX7JTGNNrLmRwjCsXH-7IU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358640424967-19bvnm59a6nk2sbfh1250h1qdt1ib4is.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
